@@ -63,6 +63,7 @@
 }
 #msg-box4-12 .mbr-article UL {
   color: #28324e;
+  text-align: left;
 }
 #msg-box4-18 .mbr-header__text {
   color: #000000;
@@ -108,4 +109,17 @@
 }
 #msg-box4-1d .mbr-article UL {
   color: #28324e;
+}
+#features1-1i P {
+  text-align: center;
+  color: #777777;
+}
+#features1-1i .mbr-section__col .mbr-header__text DIV {
+  color: #c1c1c1;
+}
+#features1-1i .mbr-section__col .mbr-header__text {
+  text-align: center;
+}
+#features1-1i .mbr-section__col .mbr-header__text SPAN {
+  color: #777777;
 }

@@ -6,7 +6,9 @@
       "name": "default",
       "title": "Mobirise",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#777777"
+      ]
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 58,
@@ -380,7 +382,8 @@
               "color": "#000000"
             },
             ".mbr-article UL": {
-              "color": "#28324e"
+              "color": "#28324e",
+              "text-align": "left"
             }
           },
           "_name": "msg-box4",
@@ -431,9 +434,9 @@
             }
           },
           "headerAlign": "left",
-          "title": "<br><div>Building Mobile Forms</div>",
+          "title": "<br><div>Anpassade mobila formulär</div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<ul><li>KeySale allows managers to create custom forms using any combination of text, numeric values, Yes/No checklists, dropdowns, photos, signature fields, and more.</li><li>Tag and Assign Forms to Representatives - KeySale mobile forms work even if members of your team have different devices. Whether your team uses iPad, Android, Ipads, or a combination, tag forms to control which representatives see them, and which customers they are associated with.</li><li>They can also submit, share, and email forms and audits from the KeySale to the Store.</li></ul>",
+          "text": "<ul><li>KeySale ger chefer möjligheten att skapa anpassade formulär med olika kombinationer av text, numeriska värden, checklistor med ja/nej-frågor, rullgardinsmenyer, bilder, signaturfält och mycket mer. &nbsp;&nbsp;</li><li>Tagga och tilldela formulär till representanter – KeySales mobila formulär fungerar även om personer i ditt team använder olika enheter. Oavsett om ditt team använder iOS, Android eller en kombination av dessa kan du tagga formulär för att bestämma vilka representanter som kan se dem och vilka kunder de är kopplade till.</li><li>De kan även skicka, dela och mejla formulär och redovisningar från KeySale till butiken.</li></ul>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
@@ -506,9 +509,9 @@
             }
           },
           "headerAlign": "left",
-          "title": "<br><div>Mobile Data Collection Using the KeySale Forms</div>",
+          "title": "<br><div>Mobil datainsamling med KeySales app för formulär</div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<ul><li>Easily Complete Mobile Forms in the Field - KeySale's mobile app has an intuitive interface which makes answering questions quick and simple. Employees in the field can easily capture text, numeric, and photo data</li><li>Mobile form submissions automatically synchronize in real-time between your manager console and your employee's mobile app.</li></ul><div><font color=\"#28324e\">Adminstrator also have the option to share submitted forms via email at the push of a button. Share collected data with customers, other employees, or third-parties if applicable.&nbsp;</font></div><div><font color=\"#28324e\"><br></font></div><div><font color=\"#28324e\"><br></font></div>",
+          "text": "<ul><li>Fyll enkelt i mobilformulär när du är på språng – KeySale mobilapp har ett användarvänligt gränssnitt som gör det enkelt att snabbt svara på frågor. Medarbetare som befinner sig på fältet kan på ett enkelt sätt samla in data, oavsett om det handlar om text, siffror eller bilder.</li><li>Inskickade mobila formulär synkroniseras automatiskt i realtid mellan din hanteringskonsol och dina medarbetares mobilappar.</li><li>Medarbetare har även möjlighet att dela inskickade formulär via e-post med en enkel knapptryckning. Dela insamlad data med kunder, andra medarbetare eller tredje part.</li></ul><div><font color=\"#28324e\"><br></font></div><div><font color=\"#28324e\"><br></font></div>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
@@ -581,9 +584,9 @@
             }
           },
           "headerAlign": "left",
-          "title": "<br><div>Taking Orders in the KeySale</div>",
+          "title": "<br><div>Beställningar i KeySale</div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<ul><li>Simply enter the number of products ordered, and KeySale will calculate the total value of the order based on the prices of the products. Add in any discounts or promotional information, and capture electronic signatures for authorization.</li><li>Keep track of product range per store category</li><li>Send order to your wholesaler with EDI&nbsp;</li><li>Import or export data to your ERP system</li></ul><div><br></div><div><br></div><ul></ul>",
+          "text": "<ul><li>Ange antalet beställda produkter så räknar KeySale ut totalsumman för beställningen baserat på produkternas priser. Lägg till eventuella rabatter eller kampanjinformation, och samla in elektroniska signaturer för godkännande.</li><li>Håll koll på produktsortimentet för varje kategori i butiken.</li><li>Skicka beställningar till din grossist med hjälp av EDI.&nbsp;</li><li>Importera eller exportera data till ditt ERP-system.</li></ul><div><br></div><div><br></div><ul></ul>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
@@ -729,7 +732,7 @@
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": "6",
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -868,7 +871,7 @@
               "color": "#2969b0"
             }
           },
-          "title5": "SINGEL SIGN ON<br><br><br>Integrera order, orderhistorik med ditt affärssystem.&nbsp;<div>Exportera order via EDI till grossist.</div>",
+          "title5": "SINGEL SIGN ON<br><br><br><span style=\"font-weight: normal;\">Ett lösenord oavsett vilka moduller du använder</span>",
           "caption5": "",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
@@ -895,7 +898,22 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-1i"
+          "_anchor": "features1-1i",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#777777"
+            },
+            ".mbr-section__col .mbr-header__text DIV": {
+              "color": "#c1c1c1"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-section__col .mbr-header__text SPAN": {
+              "color": "#777777"
+            }
+          }
         },
         {
           "_tags": [
